@@ -176,13 +176,13 @@ This removes the need for a support employee to manually monitor incoming reques
 
 🖼️ Screenshots
 Workflow Overview
-![image alt] (https://github.com/akseghazi/ai-customer-support-n8n/blob/e2c12cac641ae7d2eb90bb6432a701de56ed9245/screenshots/complete%20workflow.jpg)
+
 AI & Knowledge Base
-![Workflow Overview](screenshots/ai knowledge based rag system.jpg)
+
 Ticket Escalation
-![Workflow Overview](screenshots/ticket automation.jpg)
+
 Ticket Results
-![Workflow Overview](screenshots/results.jpg)
+
 🎯 Business Benefits
 
 This automation can help businesses:
@@ -262,4 +262,3 @@ ai-customer-support-n8n/
 This project demonstrates how n8n and AI can be used to build a complete customer-support automation rather than just a basic chatbot.
 
 The system combines AI-powered responses, knowledge retrieval, conversation memory, automated escalation, ticket prioritization, ticket management, and support-team notifications into a single automated workflow.
-![image alt](https://github.com/akseghazi/ai-customer-support-n8n/blob/9ccdd724a82159f5eebf21be20f4adf04ecf25c9/results.jpg)
