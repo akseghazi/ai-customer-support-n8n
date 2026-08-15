@@ -176,7 +176,7 @@ This removes the need for a support employee to manually monitor incoming reques
 
 🖼️ Screenshots
 Workflow Overview
-
+![Workflow Overview](screenshots/complete workflow.jpg)
 AI & Knowledge Base
 
 Ticket Escalation
