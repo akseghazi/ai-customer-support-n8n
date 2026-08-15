@@ -250,10 +250,10 @@ ai-customer-support-n8n/
 ├── README.md
 │
 ├── screenshots/
-│   ├── complete workflow.png
-│   ├── Ai knowledge based rag-system.png
-│   ├── ticket automation.png
-│   └── results.png
+│   ├── complete workflow.jpg
+│   ├── Ai knowledge based rag-system.jpg
+│   ├── ticket automation.jpg
+│   └── results.jpg
 │
 └── workflow/
     └── customer-support-workflow.json
