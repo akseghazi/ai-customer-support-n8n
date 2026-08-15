@@ -179,7 +179,7 @@ This removes the need for a support employee to manually monitor incoming reques
 Workflow Overview
 ![image alt](https://github.com/akseghazi/ai-customer-support-n8n/blob/28a5cf900df220813c54f20897faf610892a94fc/screenshots/complete%20workflow.jpg)
 AI & Knowledge Base
-
+![image alt](https://github.com/akseghazi/ai-customer-support-n8n/blob/cf756f19504edae275c638f1b127afd872377b43/screenshots/ai%20knowledge%20based%20rag%20system.jpg)
 Ticket Escalation
 
 Ticket Results
