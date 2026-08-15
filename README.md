@@ -178,11 +178,11 @@ This removes the need for a support employee to manually monitor incoming reques
 Workflow Overview
 ![Workflow Overview](screenshots/complete workflow.jpg)
 AI & Knowledge Base
-
+![Workflow Overview](screenshots/ai knowledge based rag system.jpg)
 Ticket Escalation
-
+![Workflow Overview](screenshots/ticket automation.jpg)
 Ticket Results
-
+![Workflow Overview](screenshots/results.jpg)
 🎯 Business Benefits
 
 This automation can help businesses:
