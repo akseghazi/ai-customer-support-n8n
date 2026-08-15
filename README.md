@@ -262,3 +262,4 @@ ai-customer-support-n8n/
 This project demonstrates how n8n and AI can be used to build a complete customer-support automation rather than just a basic chatbot.
 
 The system combines AI-powered responses, knowledge retrieval, conversation memory, automated escalation, ticket prioritization, ticket management, and support-team notifications into a single automated workflow.
+![image alt](https://github.com/akseghazi/ai-customer-support-n8n/blob/9ccdd724a82159f5eebf21be20f4adf04ecf25c9/results.jpg)
