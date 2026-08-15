@@ -177,7 +177,7 @@ This removes the need for a support employee to manually monitor incoming reques
 
 🖼️ Screenshots
 Workflow Overview
-
+![image alt](https://github.com/akseghazi/ai-customer-support-n8n/blob/28a5cf900df220813c54f20897faf610892a94fc/screenshots/complete%20workflow.jpg)
 AI & Knowledge Base
 
 Ticket Escalation
