@@ -181,7 +181,7 @@ Workflow Overview
 AI & Knowledge Base
 ![image alt](https://github.com/akseghazi/ai-customer-support-n8n/blob/cf756f19504edae275c638f1b127afd872377b43/screenshots/ai%20knowledge%20based%20rag%20system.jpg)
 Ticket Escalation
-
+![image alt](https://github.com/akseghazi/ai-customer-support-n8n/blob/3f8ed30ba9c832f01a1ad17607195049f49442ee/screenshots/ticket%20automation.jpg)
 Ticket Results
 ![image alt](https://github.com/akseghazi/ai-customer-support-n8n/blob/6b13fd6d22e69fec9b4d22814cb4c0114e9c9552/screenshots/results.jpg)
 🎯 Business Benefits
