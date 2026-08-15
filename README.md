@@ -183,7 +183,7 @@ AI & Knowledge Base
 Ticket Escalation
 
 Ticket Results
-
+![image alt](https://github.com/akseghazi/ai-customer-support-n8n/blob/6b13fd6d22e69fec9b4d22814cb4c0114e9c9552/screenshots/results.jpg)
 🎯 Business Benefits
 
 This automation can help businesses:
