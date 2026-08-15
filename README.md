@@ -83,6 +83,7 @@ Check Human Escalation
        Prepare Ticket Response
                ↓
        Return Ticket Response
+```
 🧠 AI & RAG Architecture
 
 The customer-support AI uses Retrieval-Augmented Generation (RAG).
